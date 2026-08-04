@@ -1,5 +1,10 @@
 venv/
 __pycache__/
 .ipynb_checkpoints/
-*.pkl
+*.pyc
+
+# Dataset is large (~150MB) — download from Kaggle separately
 Data/creditcard.csv
+
+# Do NOT ignore .pkl model files — they are needed for the deployed app
+# models/fraud_model.pkl and models/scaler.pkl should be committed
