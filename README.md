@@ -2,7 +2,7 @@
 
 A machine learning web application that detects fraudulent credit card transactions in real time using a Random Forest classifier trained with SMOTE oversampling.
 
-**Live demo:** *(deploy to Streamlit Cloud and paste URL here)*
+**Live demo:** [credit-card-fraud-detection-v2.streamlit.app](https://credit-card-fraud-detection-v2-glmy8ax4xn228wcmjhccsy.streamlit.app/)
 
 ---
 
